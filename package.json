@@ -1,5 +1,5 @@
 {
-  "name": "thumbd",
+  "name": "@fugood/thumbd",
   "version": "2.19.0",
   "directories": {
     "bin": "./bin",
